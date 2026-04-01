@@ -21,3 +21,25 @@ class CybersecurityAnalyst {
     console.log("Defending networks, hunting vulnerabilities, and automating security.");
   }
 }
+
++-----------------------------------------------------------------+
+| 🛡️ ARSENAL TÉCNICO (OFFENSIVE & DEFENSIVE)                      |
++-----------------------------------------------------------------+
+| OS & Env       | Kali Linux, Windows 11, Docker, VirtualBox     |
+| Scripting      | Python, PowerShell, Bash                       |
+| Offensive      | Metasploit, Nmap, Wireshark, Burp Suite        |
+| Defensive/Ops  | Sentinel Audit (SIEM), WireGuard, n8n          |
++-----------------------------------------------------------------+
+
++-----------------------------------------------------------------+
+| 🎯 ROADMAP 2026                                                 |
++-----------------------------------------------------------------+
+| [x] Certificación de Análisis de Ciberseguridad (Coursera)      |
+| [x] Programación en Python (Coursera)                           |
+| [~] Cisco Cybersecurity Training (En progreso)                  |
+| [~] Desarrollo & Escalabilidad de Sentinel Audit (SIEM v3.2)    |
+| [ ] Preparación para eJPT / OSCP                                |
++-----------------------------------------------------------------+
+
+📜 The Security Researcher's Oath
+"I pledge to hack for knowledge, defend for the innocent, and automate the mundane. My code is my weapon, and my ethics are my shield."
