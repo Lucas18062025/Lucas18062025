@@ -1,12 +1,19 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Red+Team+Practitioner;Security+Automation+Engineer" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Red_Team-Practitioner-3b82f6?style=flat-square&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tucum%C3%A1n-Argentina-1d4ed8?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to_Work-SOC_%7C_Pentest-22c55e?style=flat-square&logo=linkedin&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Ethical+Hacker;Security+Automation+Engineer" alt="Typing SVG" />
+
+<br/>
+
+<h2 style="background: linear-gradient(90deg, #8b949e, #c9d1d9); -webkit-background-clip: text; font-weight: 800;">Lucas Villagra</h2>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📡_SIEM_Propio-Windows_11-30363d?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/🗂️_Portafolio-GitHub_Pages-30363d?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Tucumán-Argentina-30363d?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_Open_to_Work-SOC_|_Pentest-22c55e?style=flat-square&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -32,18 +39,18 @@ class CybersecurityAnalyst {
 
 ### 🛡️ Arsenal Técnico
 
-| Categoría        | Herramientas                                        |
-|-----------------|-----------------------------------------------------|
-| **OS & Entorno** | `Kali Linux` `Windows 11` `VirtualBox` `Docker`    |
-| **Scripting**    | `Python` `PowerShell` `Bash`                       |
-| **Offensive**    | `Metasploit` `Nmap` `Wireshark` `Burp Suite`       |
-| **Defensive/Ops**| `SIEM (custom)` `WireGuard` `n8n`                  |
+| Categoría | Herramientas |
+|---|---|
+| **OS & Entorno** | `Kali Linux` `Windows 11` `VirtualBox` `Docker` |
+| **Scripting** | `Python` `PowerShell` `Bash` |
+| **Ofensiva** | `Metasploit` `Nmap` `Wireshark` `Burp Suite` |
+| **Defensiva/Ops** | `SIEM (custom)` `WireGuard` `n8n` |
 
 ---
 
-### 🎯 Roadmap 2026
+### 🎯 Hoja de ruta 2026
 
-- [x] Google Cybersecurity Certificate
+- [x] Certificado de Ciberseguridad de Google
 - [x] SIEM personalizado con alertas Telegram
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
 - [ ] 🔵 Portafolio público — GitHub Pages *(en curso)*
