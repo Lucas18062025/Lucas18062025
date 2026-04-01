@@ -22,9 +22,9 @@
 
 ### 👨‍💻 whoami
 
-> **Cybersecurity Analyst / Ethical Hacker** · Tucumán, Argentina
+> **Cybersecurity Google Analyst / Ethical Hacker** · Tucumán, Argentina
 >
-> Autodidacta · Metódico · Orientado a resultados
+> Autodidact Certified · Metódico · Orientado a resultados
 
 ---
 
