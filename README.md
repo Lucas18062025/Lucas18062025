@@ -24,9 +24,16 @@
 
 > **Cybersecurity Analyst / Ethical Hacker** · Tucumán, Argentina
 >
-> Resiliente · Esotérico · Apasionado
->
-> *"Defending networks. Automating security. Never stopping."*
+> Autodidacta · Metódico · Orientado a resultados
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[SIEM — Windows 11](https://github.com/Lucas18062025/SIEM_Windows_11)** | Monitor de eventos en tiempo real con alertas vía Telegram bot | `Python` `Win Events` `Telegram API` |
+| **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Generador de informes PDF profesionales para auditorías WiFi con scoring CVSS y precios para PYMEs argentinas | `Python` `ReportLab` `OpenAI API` |
 
 ---
 
