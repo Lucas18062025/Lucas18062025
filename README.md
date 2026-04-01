@@ -45,7 +45,7 @@ class CybersecurityAnalyst {
 
 - [x] Google Cybersecurity Certificate
 - [x] SIEM personalizado con alertas Telegram
-- [ ] Portafolio público — GitHub Pages
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
+- [ ] 🔵 Portafolio público — GitHub Pages *(en curso)*
 - [ ] eJPT / CompTIA Security+
 - [ ] Primer rol SOC Analyst / Junior Pentester
