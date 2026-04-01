@@ -20,23 +20,13 @@
 
 ---
 
-### 👨‍💻 `whoami`
-```typescript
-class CybersecurityAnalyst {
-  public name: string      = "Lucas Villagra";
-  public role: string      = "Cybersecurity Analyst / Ethical Hacker";
-  public traits: string[]  = ["Resiliente", "Esotérico", "Apasionado"];
-  public location: string  = "Tucumán, Argentina";
+### 👨‍💻 whoami
 
-  constructor() {
-    this.executeMission();
-  }
-
-  private executeMission(): void {
-    console.log("Defending networks. Automating security. Never stopping.");
-  }
-}
-```
+> **Cybersecurity Analyst / Ethical Hacker** · Tucumán, Argentina
+>
+> Resiliente · Esotérico · Apasionado
+>
+> *"Defending networks. Automating security. Never stopping."*
 
 ---
 
