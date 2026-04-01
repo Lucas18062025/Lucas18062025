@@ -1,46 +1,51 @@
-# <p align="center">🛡️ Lucas Villagra | Cybersecurity Analyst</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Red+Team+Practitioner;Security+Automation+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Pentesting;Red+Team+Enthusiast;Security+Automation" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Red_Team-Practitioner-3b82f6?style=flat-square&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tucum%C3%A1n-Argentina-1d4ed8?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_to_Work-SOC_%7C_Pentest-22c55e?style=flat-square&logo=linkedin&logoColor=white"/>
 </p>
 
 ---
 
 ### 👨‍💻 `whoami`
-
 ```typescript
 class CybersecurityAnalyst {
-  public name: string = "Lucas Villagra";
-  public role: string = "Cybersecurity Analyst / Ethical Hacker";
-  public traits: string[] = ["Resiliente", "Esotérico", "Apasionado"];
-  public location: string = "Tucumán, Argentina";
+  public name: string      = "Lucas Villagra";
+  public role: string      = "Cybersecurity Analyst / Ethical Hacker";
+  public traits: string[]  = ["Resiliente", "Esotérico", "Apasionado"];
+  public location: string  = "Tucumán, Argentina";
 
-  public constructor() {
+  constructor() {
     this.executeMission();
   }
 
   private executeMission(): void {
-    console.log("Defending networks and automating security systems.");
+    console.log("Defending networks. Automating security. Never stopping.");
   }
 }
-+-----------------------------------------------------------------+
-| 🛡️ ARSENAL TÉCNICO (OFFENSIVE & DEFENSIVE)                      |
-+-----------------------------------------------------------------+
-| OS & Env       | Kali Linux, Windows 11, Docker, VirtualBox     |
-| Scripting      | Python, PowerShell, Bash                       |
-| Offensive      | Metasploit, Nmap, Wireshark, Burp Suite        |
-| Defensive/Ops  | Sentinel Audit (SIEM), WireGuard, n8n          |
-+-----------------------------------------------------------------+
+```
 
-+-----------------------------------------------------------------+
-| 🎯 ROADMAP 2026                                                 |
-+-----------------------------------------------------------------+
-| [x] Certificación de Análisis de Ciberseguridad (Coursera)      |
-| [x] Programación en Python (Coursera)                           |
-| [x] Desarrollo & Escalabilidad de Sentinel Audit (SIEM v3.2)    |                           |
-| [~] Cisco Ethical Hacker (En progreso)                          |
-| [ ] Preparación para eJPT / OSCP                                |
-+-----------------------------------------------------------------+
+---
 
-📜 The Security Researcher's Oath
-"I pledge to hack for knowledge, defend for the innocent, and automate the mundane. My code is my weapon, and my ethics are my shield."
+### 🛡️ Arsenal Técnico
+
+| Categoría        | Herramientas                                        |
+|-----------------|-----------------------------------------------------|
+| **OS & Entorno** | `Kali Linux` `Windows 11` `VirtualBox` `Docker`    |
+| **Scripting**    | `Python` `PowerShell` `Bash`                       |
+| **Offensive**    | `Metasploit` `Nmap` `Wireshark` `Burp Suite`       |
+| **Defensive/Ops**| `SIEM (custom)` `WireGuard` `n8n`                  |
+
+---
+
+### 🎯 Roadmap 2026
+
+- [x] Google Cybersecurity Certificate
+- [x] SIEM personalizado con alertas Telegram
+- [ ] Portafolio público — GitHub Pages
+- [ ] 🔵 Cisco Ethical Hacker *(en curso)*
+- [ ] eJPT / CompTIA Security+
+- [ ] Primer rol SOC Analyst / Junior Pentester
