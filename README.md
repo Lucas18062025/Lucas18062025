@@ -53,6 +53,6 @@
 - [x] Certificado de Ciberseguridad de Google
 - [x] SIEM personalizado con alertas Telegram
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
-- [ ] 🔵 Portafolio público — GitHub Pages *(en curso)*
+- [x] Portafolio público — GitHub Pages
 - [ ] eJPT / CompTIA Security+
 - [ ] Primer rol SOC Analyst / Junior Pentester
