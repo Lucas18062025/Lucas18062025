@@ -1,4 +1,4 @@
-# <p align="center">🛡️ Lucas Villagra | Cybersecurity Analyst</p>
+# <p align="center">🛡️ https://lucas18062025.github.io/Portafolio/</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Pentesting;Red+Team+Enthusiast;Security+Automation" alt="Typing SVG" />
@@ -18,6 +18,11 @@ class CybersecurityAnalyst {
   public constructor() {
     this.executeMission();
   }
+
+  private executeMission(): void {
+    console.log("Defending networks and automating security systems.");
+  }
+}
 
   private executeMission(): void {
     console.log("Defending networks and automating security systems.");
