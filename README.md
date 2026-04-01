@@ -36,8 +36,8 @@ class CybersecurityAnalyst {
 +-----------------------------------------------------------------+
 | [x] Certificación de Análisis de Ciberseguridad (Coursera)      |
 | [x] Programación en Python (Coursera)                           |
-| [~] Cisco Cybersecurity Training (En progreso)                  |
-| [~] Desarrollo & Escalabilidad de Sentinel Audit (SIEM v3.2)    |
+| [x] Desarrollo & Escalabilidad de Sentinel Audit (SIEM v3.2)    |                           |
+| [~] Cisco Ethical Hacker (En progreso)                          |
 | [ ] Preparación para eJPT / OSCP                                |
 +-----------------------------------------------------------------+
 
