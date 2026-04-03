@@ -11,53 +11,30 @@
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,docker,vscode,github&theme=dark" />
 </div>
-
 ---
-
-### 👨🏾‍💻 whoami
+### 👨‍💻 whoami
 > **Cybersecurity Google Analyst · Ethical Hacker** · Tucumán, Argentina
 >
-> Autodidacta Certificado · Metódico · Orientado a resultados
-
+> Autodidact Certified · Metódico · Orientado a resultados
 ---
-
 ### 🚀 Proyectos Destacados
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[SIEM — Windows 11](https://github.com/Lucas18062025/SIEM_Windows_11)** | Monitor de eventos en tiempo real con alertas vía Telegram | `Python` `Win Events` `Telegram API` |
-| **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas | `Python` `ReportLab` `OpenAI API` |
-
+| **[SIEM — Windows 11](https://github.com/Lucas18062025/SIEM_Windows_11)** | Monitor de eventos en tiempo real con alertas vía Telegram | Python Win Events Telegram API |
+| **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas | Python ReportLab OpenAI API |
 ---
-
 ### 🛡️ Arsenal Técnico
 | Categoría | Herramientas |
 |---|---|
-| **OS & Entorno** | `Kali Linux` `Windows 11` `VirtualBox` `Docker` |
-| **Scripting** | `Python` `PowerShell` `Bash` |
-| **Ofensiva** | `Metasploit` `Nmap` `Wireshark` `Burp Suite` |
-| **Defensiva/Ops** | `SIEM (custom)` `WireGuard` `n8n` |
-
+| **OS & Entorno** | Kali Linux Windows 11 VirtualBox Docker |
+| **Scripting** | Python PowerShell Bash |
+| **Ofensiva** | Metasploit Nmap Wireshark Burp Suite |
+| **Defensiva/Ops** | SIEM (custom) WireGuard n8n |
 ---
-
 ### 🎯 Hoja de ruta 2026
 - [x] Certificado de Ciberseguridad de Google
 - [x] SIEM personalizado con alertas Telegram
-- [ ] 🔵 Cisco Ethical Hacker *(en curso)*
 - [x] Portafolio público — GitHub Pages
+- [ ] 🔵 Cisco Ethical Hacker (en curso)
 - [ ] eJPT / CompTIA Security+
 - [ ] Primer rol SOC Analyst / Junior Pentester
-```
-
----
-
-## 🔎 Para encontrar y borrar el "¡Vaya"
-
-En el editor de GitHub, hacé **Ctrl+F** y buscá estas cadenas una por una:
-```
-Vaya
-```
-```
-🧉
-```
-```
-<details
