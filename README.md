@@ -54,4 +54,3 @@
 > *"Pensar como atacante te enseña a defender… pero actuar con ética define quién sos."*
 
 > *"En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante, porque en este juego, el conocimiento es poder."*
-> — Lucas Villagra
