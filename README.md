@@ -25,6 +25,7 @@
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[SIEM — Windows 11](https://github.com/Lucas18062025/SIEM_Windows_11)** | Monitor de eventos en tiempo real con alertas vía Telegram | `Python` `Win Events` `Telegram API` |
+| **[Sentinel V5 "Apex"](https://github.com/Lucas18062025/Sentinel)** | Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza inteligente + auditoría de firewall con evidencia forense | `PowerShell` `NetSecurity` `Windows 11` |
 | **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas | `Python` `ReportLab` `OpenAI API` |
 
 ---
@@ -43,6 +44,7 @@
 - [x] Certificado de Ciberseguridad de Google
 - [x] SIEM personalizado con alertas Telegram
 - [x] Portafolio público — GitHub Pages
+- [x] Sentinel V5 — Motor de auditoría y mantenimiento Open Source
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
 - [ ] eJPT / CompTIA Security+
 - [ ] Primer rol SOC Analyst / Junior Pentester
