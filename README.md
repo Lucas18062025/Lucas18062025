@@ -17,7 +17,7 @@
 ### 👨‍💻 whoami
 > **Cybersecurity Google Analyst · Ethical Hacker** · Tucumán, Argentina
 >
-> Autodidact Certified · Metódico · Orientado a resultados
+> Autodidact · Certified · Metódico · Orientado a resultados
 
 ---
 
@@ -27,6 +27,7 @@
 | **[SIEM — Windows 11](https://github.com/Lucas18062025/SIEM_Windows_11)** | Monitor de eventos en tiempo real con alertas vía Telegram | `Python` `Win Events` `Telegram API` |
 | **[Sentinel V5 "Apex"](https://github.com/Lucas18062025/Sentinel)** | Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza inteligente + auditoría de firewall con evidencia forense | `PowerShell` `NetSecurity` `Windows 11` |
 | **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas | `Python` `ReportLab` `OpenAI API` |
+| **[Security-Audit-Checker](https://github.com/Lucas18062025/security-audit-checker)** | Auditoría de infraestructura con protección Arcjet Shield y backend serverless. | `Node.js` `Arcjet` `Netlify` |
 
 ---
 
@@ -36,7 +37,7 @@
 | **OS & Entorno** | `Kali Linux` `Windows 11` `VirtualBox` `Docker` |
 | **Scripting** | `Python` `PowerShell` `Bash` |
 | **Ofensiva** | `Metasploit` `Nmap` `Wireshark` `Burp Suite` |
-| **Defensiva/Ops** | `SIEM (custom)` `WireGuard` `n8n` |
+| **Defensiva & Cloud** | `Arcjet (Shield & Bot Detection)` `Netlify` `SIEM (Custom)` `WireGuard` |
 
 ---
 
@@ -44,6 +45,7 @@
 - [x] Certificado de Ciberseguridad de Google
 - [x] SIEM personalizado con alertas Telegram
 - [x] Portafolio público — GitHub Pages
+- [x] Integración de protección activa en apps web (Arcjet)
 - [x] Sentinel V5 — Motor de auditoría y mantenimiento Open Source
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
 - [ ] eJPT / CompTIA Security+
