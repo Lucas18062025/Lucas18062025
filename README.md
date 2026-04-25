@@ -9,7 +9,7 @@
 </a>
 <img src="https://img.shields.io/badge/Open_to_Work-SOC_%7C_Pentest-22c55e?style=for-the-badge&logo=target&logoColor=white"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,antigravity,bash,nodejs,netlify,docker,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,nodejs,netlify,docker,vscode,github&theme=dark" />
 </div>
 
 ---
