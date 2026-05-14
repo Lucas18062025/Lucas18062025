@@ -63,10 +63,10 @@
 <a href="mailto:lucaslean1806@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://t.me/LucasVillagraSec">
+<a href="https://t.me/UserName9816">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="https://proton.me/mail">
+<a href="mailto:lucaslean1806@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
