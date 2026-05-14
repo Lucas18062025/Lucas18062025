@@ -15,6 +15,7 @@
 ---
 
 ### 👨‍💻 whoami
+
 > **Cybersecurity Google Analyst · Ethical Hacker** · Tucumán, Argentina
 >
 > Autodidact · Certified · Metódico · Orientado a resultados
@@ -22,6 +23,7 @@
 ---
 
 ### 🚀 Proyectos Destacados
+
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[SIEM — Windows 11](https://github.com/Lucas18062025/SIEM_Windows_11)** | Monitor de eventos en tiempo real con alertas vía Telegram | `Python` `Win Events` `Telegram API` |
@@ -32,16 +34,46 @@
 ---
 
 ### 🛡️ Arsenal Técnico
-| Categoría | Herramientas |
-|---|---|
-| **OS & Entorno** | `Kali Linux` `Windows 11` `VirtualBox` `Docker` |
-| **Scripting** | `Python` `PowerShell` `Bash` |
-| **Ofensiva** | `Metasploit` `Nmap` `Wireshark` `Burp Suite` |
-| **Defensiva & Cloud** | `Arcjet (Shield & Bot Detection)` `Netlify` `SIEM (Custom)` `WireGuard` |
+
+**⚡ Lenguajes & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**🔥 Herramientas Ofensivas**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF6633?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-C0392B?style=flat-square&logo=aircrackng&logoColor=white)
+
+**🌐 Infraestructura & Red**
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183153?style=flat-square&logo=virtualbox&logoColor=white)
+
+---
+
+### 💬 Conéctate conmigo
+
+<a href="mailto:lucaslean1806@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/LucasVillagraSec">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://proton.me/mail">
+  <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
 
 ---
 
 ### 🎯 Hoja de ruta 2026
+
 - [x] Certificado de Ciberseguridad de Google
 - [x] SIEM personalizado con alertas Telegram
 - [x] Portafolio público — GitHub Pages
@@ -56,7 +88,7 @@
 ### 📜 Reflexiones
 
 > *" Pensar como atacante te enseña a defender… pero actuar con ética define quién sos. "*
-
+>
 > *" En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante, porque en este juego, el conocimiento es poder. "*
-
+>
 > *" El aislamiento de una VM no es absoluto, es probabilístico. La seguridad real viene de entender cada vector de contacto entre la VM y el host, y eliminar los que no necesitás activamente. "*
