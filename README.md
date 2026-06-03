@@ -12,11 +12,13 @@
 <img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,nodejs,netlify,docker,vscode,github&theme=dark" />
 </div>
 
+
 > **Cybersecurity Google Analyst · Ethical Hacker** · Tucumán, Argentina
 >
 > Autodidact · Metódico · Orientado a resultados
 
 <div style="border-top: 1px solid #30363d; margin: 1rem 0;"></div>
+
 
 ### 🚀 Proyectos Destacados
 
