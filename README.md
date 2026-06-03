@@ -30,6 +30,7 @@
 | **[Sentinel V5 "Apex"](https://github.com/Lucas18062025/Sentinel)** | Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza inteligente + auditoría de firewall con evidencia forense | `PowerShell` `NetSecurity` `Windows 11` |
 | **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas | `Python` `ReportLab` `OpenAI API` |
 | **[Security-Audit-Checker](https://github.com/Lucas18062025/security-audit-checker)** | Auditoría de infraestructura con protección Arcjet Shield y backend serverless. | `Node.js` `Arcjet` `Netlify` |
+| **[ZenHub Dashboard](https://github.com/Lucas18062025/zenhub-dashboard)** | Panel de productividad personal con Pomodoro, gestor de tareas, rastreador de hábitos y clima en tiempo real (Open-Meteo sin API key) | `HTML5` `CSS3` `JavaScript` `Open-Meteo API` |
 
 ---
 
