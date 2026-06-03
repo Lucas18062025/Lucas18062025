@@ -16,7 +16,7 @@
 >
 > Autodidact · Metódico · Orientado a resultados
 
-<hr>
+<div style="border-top: 1px solid #30363d; margin: 1rem 0;"></div>
 
 ### 🚀 Proyectos Destacados
 
