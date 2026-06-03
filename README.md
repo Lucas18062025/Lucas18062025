@@ -12,13 +12,11 @@
 <img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,nodejs,netlify,docker,vscode,github&theme=dark" />
 </div>
 
----
-
 > **Cybersecurity Google Analyst · Ethical Hacker** · Tucumán, Argentina
 >
-> Autodidact  · Metódico · Orientado a resultados
+> Autodidact · Metódico · Orientado a resultados
 
----
+<hr>
 
 ### 🚀 Proyectos Destacados
 
@@ -39,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF9500?style=flat-square&logo=javascript&logoColor=white)
 
 **🔥 Herramientas Ofensivas**
 
