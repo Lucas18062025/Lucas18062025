@@ -9,7 +9,7 @@
 </a>
 <img src="https://img.shields.io/badge/Open_to_Work-SOC_%7C_Pentest-22c55e?style=for-the-badge&logo=target&logoColor=white"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,nodejs,netlify,docker,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,nodejs,netlify,cloudflare,docker,vscode,github&theme=dark" />
 </div>
 
 ---
@@ -29,6 +29,7 @@
 | **[Reportes Ejecutivos de Auditoría](https://lucas18062025.github.io/Portafolio/)** | Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas | `Python` `ReportLab` `OpenAI API` |
 | **[Security-Audit-Checker](https://github.com/Lucas18062025/security-audit-checker)** | Auditoría de infraestructura con protección Arcjet Shield y backend serverless. | `Node.js` `Arcjet` `Netlify` |
 | **[ZenHub Dashboard](https://github.com/Lucas18062025/zenhub-dashboard)** | Panel de productividad personal con Pomodoro, gestor de tareas, rastreador de hábitos y clima en tiempo real (Open-Meteo ) | `HTML5` `CSS3` `JavaScript` `Open-Meteo API` |
+| [Gophish Lab](https://github.com/Lucas18062025/Gophish-Lab) | Simulación de campaña de phishing con GoPhish + Mailpit. Ciclo completo: template → landing → captura de credenciales. | GoPhish  Mailpit  Kali Linux |
 
 ---
 
