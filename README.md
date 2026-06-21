@@ -79,7 +79,8 @@
 - [x] SIEM personalizado con alertas Telegram
 - [x] Portafolio público — GitHub Pages
 - [x] Integración de protección activa en apps web (Arcjet)
-- [x] Sentinel V5 — Motor de auditoría y mantenimiento Open Source
+- [x] Sentinel V4 — Motor de auditoría y mantenimiento Open Source
+- [x] Dominio ClouFlare .Dev
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
 - [ ] eJPT / CompTIA Security+
 - [ ] Primer rol SOC Analyst / Junior Pentester
