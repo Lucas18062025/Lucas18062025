@@ -9,7 +9,7 @@
 </a>
 <img src="https://img.shields.io/badge/Open_to_Work-SOC_%7C_Pentest-22c55e?style=for-the-badge&logo=target&logoColor=white"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,nodejs,netlify,cloudflare,docker,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,html,css,javascript,nodejs,netlify,cloudflare,docker,vscode,github&theme=dark" />
 </div>
 
 ---
@@ -40,6 +40,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF9500?style=flat-square&logo=javascript&logoColor=white)
 
 **🔥 Herramientas Ofensivas**
@@ -50,6 +51,7 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-C0392B?style=flat-square&logo=aircrackng&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=flat-square&logo=kalilinux&logoColor=white)
 
 **🌐 Infraestructura & Red**
 
@@ -79,7 +81,7 @@
 - [x] SIEM personalizado con alertas Telegram
 - [x] Portafolio público — GitHub Pages
 - [x] Integración de protección activa en apps web (Arcjet)
-- [x] Sentinel V4 — Motor de auditoría y mantenimiento Open Source
+- [x] Sentinel V5 — Motor de auditoría y mantenimiento Open Source
 - [x] Dominio Cloudflare .Dev
 - [ ] 🔵 Cisco Ethical Hacker *(en curso)*
 - [ ] eJPT / CompTIA Security+
@@ -93,4 +95,4 @@
 >
 > *" En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante, porque en este juego, el conocimiento es poder. "*
 >
-> *" El aislamiento de una VM no es absoluto, es probabilístico. La seguridad real viene de entender cada vector de contacto entre la VM y el host, y eliminar los que no necesitás activamente. "*
+> *" El aislamiento de una VM no es absoluto, es probabilístico. La seguridad real viene de entender cada vector de contacto entre la VM and el host, y eliminar los que no necesitás activamente. "*
