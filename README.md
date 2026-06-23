@@ -51,7 +51,7 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-C0392B?style=flat-square&logo=aircrackng&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=flat-square&logo=kalilinux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAByklEQVR42m2SO4tTURSFv33OvTePmcxMHsIEMcWgBpzCQkRs/AV2/h3/gohgpY1gLbZiIwop1MIikykUwWKCBDMoifeRe%2B852yIhmuCCXe691mJ/Mmh1lH%2BkgAVqIgRABmSqCJsKFN1YqotwWpQ8TRJuVEJuhxGXjMWxcR%2Bz7eYVhlLwTnIexjEvs4yqgNt2XC8JRAhT53mep9zqw%2BGecHdYIRAB/Y%2BjAJoLBviiJdNUeX8Ck8%2BGR4uYJ0lCU8yGq4lEmDjPi6szzvG8mucUqz7zqeFmEPIsTRh7R0VYNzUOpY7Q6pc85je/jnIO29A5AK0pXWPxwIM4ZkcEv%2B4oUHeG3Qh%2BXMnp7UK1Ce19eDssuT%2BZs2OEN/mC06LOUWDJVDE44WNlwfgnHLeEyTk4Bx9G0GuCNRD7ZcDXRUYEeCDwKF0s3cEeozszvkbKxQMILdQbsN%2BGOIfEQHrmKGIQC4EXuKYBYxw%2BgHu%2BxuhCyrcJVM8sl62ln4V8957jJMIbEF39MUXJPex9qtIbV%2BnMA3pzz/VZhYYVGt4gBkqjLFjiJ4NWR3VFQlAKZahILoQWCqs4/UuNrGZNjgAlUISKKBApOctIss3lSn8Ae1LAekZBGnYAAAAASUVORK5CYII=&logoColor=white)
 
 **🌐 Infraestructura & Red**
 
