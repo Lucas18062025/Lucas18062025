@@ -30,7 +30,7 @@
 | **[Security-Audit-Checker](https://github.com/Lucas18062025/security-audit-checker)** | Auditoría de infraestructura con protección Arcjet Shield y backend serverless. | `Node.js` `Arcjet` `Netlify` |
 | **[ZenHub Dashboard](https://github.com/Lucas18062025/zenhub-dashboard)** | Panel de productividad personal con Pomodoro, gestor de tareas, rastreador de hábitos y clima en tiempo real (Open-Meteo ) | `HTML5` `CSS3` `JavaScript` `Open-Meteo API` |
 | [Gophish Lab](https://github.com/Lucas18062025/Gophish-Lab) | Simulación de campaña de phishing con GoPhish + Mailpit. Ciclo completo: template → landing → captura de credenciales. | GoPhish  Mailpit  Kali Linux |
-
+| **[Network Egress Monitor](https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-)** | Monitor de tráfico TCP saliente (egress) en tiempo real para Windows con correlación de procesos, Reverse DNS y detección de organizaciones para SOC, DFIR y Threat Hunting. | PowerShell · Windows · TCP/IP |
 ---
 
 ### 🛡️ Arsenal Técnico
