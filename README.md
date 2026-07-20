@@ -15,21 +15,21 @@
 
 <!-- Badges principales ────────────────────────────────────────────────────────────────────────────────────────── -->
 <a href="https://lucas18062025.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/🌐_PORTAFOLIO-GitHub_Pages-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=00E5FF"/>
+  <img src="https://img.shields.io/badge/PORTAFOLIO-GitHub_Pages-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://linkedin.com/in/lucas-villagra-9b5097147">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/Lucas18062025?tab=followers">
-  <img src="https://img.shields.io/badge/⭐_STATUS-Open_to_Work-0D1117?style=for-the-badge&logo=target&logoColor=22C55E&labelColor=0D1117&color=22C55E"/>
+  <img src="https://img.shields.io/badge/GITHUB-Open_to_Work-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
 <!-- Status operacional con estilo terminal -->
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-0D1117?style=flat-square&logo=server&logoColor=00E5FF&labelColor=0D1117&color=00E5FF"/>
-<img src="https://img.shields.io/badge/●_THREAT-MONITORED-0D1117?style=flat-square&logo=shield&logoColor=A78BFA&labelColor=0D1117&color=A78BFA"/>
-<img src="https://img.shields.io/badge/●_UPTIME-∞-0D1117?style=flat-square&logo=clock&logoColor=22C55E&labelColor=0D1117&color=22C55E"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=flat-square&logo=server&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/THREAT-MONITORED-A78BFA?style=flat-square&logo=shield&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/UPTIME-ACTIVE-22C55E?style=flat-square&logo=clock&logoColor=white&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -46,7 +46,7 @@
 <tr>
 <td width="50%">
 
-### 👤 `whoami`
+### 👤 Quién Soy
 
 ```bash
 lucas@kali:~$ ./identity.sh
@@ -62,7 +62,7 @@ lucas@kali:~$ ./identity.sh
 </td>
 <td width="50%">
 
-### 🧠 `cat mindset.md`
+### 🧠 Mentalidad & Enfoque
 
 > **Autodidacta · Metódico · Orientado a resultados**
 >
@@ -80,7 +80,7 @@ lucas@kali:~$ ./identity.sh
 <!-- GITHUB STATS ────────────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-### 📊 `git log --stats`
+### 📊 Estadísticas de GitHub
 
 <!-- Stats principales con tema dark -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas18062025&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=false&count_private=true&include_all_commits=true" />
@@ -101,9 +101,7 @@ lucas@kali:~$ ./identity.sh
 <!-- PROYECTOS DESTACADOS ────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-### 🚀 `ls -la /home/lab/active --featured`
-
-*Trabajo operacional · Laboratorios activos · Automatización*
+### 🚀 Proyectos Destacados
 
 </div>
 
@@ -230,7 +228,7 @@ lucas@kali:~$ ./identity.sh
 <!-- ARSENAL TÉCNICO ─────────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-### 🛡️ `./arsenal.sh --list`
+### 🛡️ Arsenal Técnico
 
 </div>
 
@@ -308,7 +306,7 @@ lucas@kali:~$ ./identity.sh
 <!-- HOJA DE RUTA ────────────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-### 🧠 `cat roadmap_2026.md`
+### 🧠 Roadmap 2026
 
 </div>
 
@@ -349,7 +347,7 @@ lucas@kali:~$ ./identity.sh
 <!-- CONECTA ─────────────────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-### 💬 `./connect.sh --channel`
+### 💬 Contactame
 
 <a href="mailto:lucaslean1806@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
@@ -380,7 +378,7 @@ lucas@kali:~$ ./identity.sh
 <!-- REFLEXIONES ─────────────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-### 📝 `cat reflexiones.log`
+### 📝 Reflexiones & Principios
 
 </div>
 
