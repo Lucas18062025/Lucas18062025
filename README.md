@@ -324,19 +324,6 @@ lucas@kali:~$ ./identity.sh
 - [x] ✓ Dominio .dev propio
 
 </td>
-<td width="50%" valign="top">
-
-#### 🔄 En Progreso / Próximo
-
-- [ ] 🔵 Cisco Ethical Hacker *(en curso)*
-- [ ] ⏳ eJPT — Junior Penetration Tester
-- [ ] ⏳ CompTIA Security+
-- [ ] ⏳ Top 1% en TryHackMe
-- [ ] 🎯 Primer rol SOC Analyst
-- [ ] 🎯 Primer rol Junior Pentester
-- [ ] 🎯 OSCP *(objetivo 2027)*
-
-</td>
 </tr>
 </table>
 
