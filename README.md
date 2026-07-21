@@ -311,7 +311,6 @@ lucas@kali:~$ ./identity.sh
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
 #### ✅ Completado
 
@@ -323,7 +322,6 @@ lucas@kali:~$ ./identity.sh
 - [x] ✓ Motor de auditoría Open Source
 - [x] ✓ Dominio .dev propio
 
-</td>
 </tr>
 </table>
 
