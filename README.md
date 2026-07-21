@@ -366,9 +366,6 @@ lucas@kali:~$ ./identity.sh
 
 <br/><br/>
 
-<!-- Visitor badge con estilo simple -->
-<img src="https://img.shields.io/badge/Profile_Views-Visit_GitHub-00E5FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Visitor Count"/>
-
 </div>
 
 <!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
