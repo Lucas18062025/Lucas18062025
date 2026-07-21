@@ -68,7 +68,7 @@ lucas@kali:~$ ./identity.sh
 >
 > Defensa ofensiva con mente analítica. Combino auditoría técnica rigurosa con automatización mediante n8n, IA generativa y Python para blindar activos digitales.
 >
-> Home labs ofensivos/defensivos sobre **Kali, Parrot, Ubuntu** con Metasploit, herramientas wireless y flujos de inteligencia integrados con **Claude MCP** y **Gemini CLI**.
+> Home labs ofensivos/defensivos sobre **Kali, Parrot, Ubuntu** con Metasploit, herramientas wireless y workflows integrados con **Claude MCP** y **Gemini CLI**.
 
 </td>
 </tr>
@@ -382,7 +382,7 @@ lucas@kali:~$ ./identity.sh
 <tr>
 <td>
 
-> #### 🧠 `[ RED_TEAM_MINDSET ]`
+> #### 🧠 ` RED TEAM MINDSET `
 >
 > *"Pensar como atacante te enseña a defender… pero actuar con ética define quién sos."*
 
@@ -391,7 +391,7 @@ lucas@kali:~$ ./identity.sh
 <tr>
 <td>
 
-> #### 📚 `[ CONTINUOUS_LEARNING ]`
+> #### 📚 ` CONTINUOUS LEARNING `
 >
 > *"En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante, porque en este juego, el conocimiento es poder."*
 
@@ -400,7 +400,7 @@ lucas@kali:~$ ./identity.sh
 <tr>
 <td>
 
-> #### 🖥️ `[ VM_ISOLATION_PRINCIPLE ]`
+> #### 🖥️ ` VM ISOLATION PRINCIPLE `
 >
 > *"El aislamiento de una VM no es absoluto, es probabilístico. La seguridad real viene de entender cada vector de contacto entre la VM y el host, y eliminar los que no necesitás activamente."*
 
