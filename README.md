@@ -314,7 +314,7 @@ lucas@kali:~$ ./identity.sh
 
 #### ✅ Completado
 
-- [x] ✓ Certificado de Ciberseguridad de Google
+- [x] ✓ Certificado de Ciberseguridad
 - [x] ✓ AI Essentials
 - [x] ✓ SIEM personalizado con alertas Telegram
 - [x] ✓ Portafolio público deployado
