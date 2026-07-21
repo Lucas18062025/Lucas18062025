@@ -82,16 +82,12 @@ lucas@kali:~$ ./identity.sh
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Stats principales con tema dark -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas18062025&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=false&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas18062025&theme=github-dark-blue&background=0D1117&stroke=30363D&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<!-- Stats con alternativa más estable -->
+<img height="200" src="https://github-readme-stats-git-main-anuragsk0s-projects.vercel.app/api?username=Lucas18062025&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=true&count_private=true" />
+<img height="200" src="https://streak-stats.demolab.com?user=Lucas18062025&theme=dark&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=C9D1D9" />
 
 <!-- Lenguajes más usados -->
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas18062025&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D&hide_border=false&langs_count=8&card_width=400" />
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas18062025&theme=github-compact&bg_color=0D1117&color=00E5FF&line=A78BFA&point=FFFFFF&hide_border=true&area=true&title=Contribution+Activity" />
-
-<!-- Trofeos -->
-<img src="https://github-profile-trophy.vercel.app/?username=Lucas18062025&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img height="200" src="https://github-readme-stats-git-main-anuragsk0s-projects.vercel.app/api/top-langs/?username=Lucas18062025&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D&hide_border=true&langs_count=8" />
 
 </div>
 
