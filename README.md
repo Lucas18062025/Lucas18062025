@@ -82,8 +82,8 @@ lucas@kali:~$ ./identity.sh
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Stats con alternativa más estable -->
-<img height="200" src="https://github-readme-stats-git-main-anuragsk0s-projects.vercel.app/api?username=Lucas18062025&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=true&count_private=true" />
+<!-- Stats con alternativa más estable y simple -->
+<img height="200" src="https://github-readme-stats-git-main-anuragsk0s-projects.vercel.app/api?username=Lucas18062025&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=true&count_private=true&include_all_commits=false" />
 <img height="200" src="https://streak-stats.demolab.com?user=Lucas18062025&theme=dark&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=C9D1D9" />
 
 <!-- Lenguajes más usados -->
@@ -363,8 +363,8 @@ lucas@kali:~$ ./identity.sh
 
 <br/><br/>
 
-<!-- Visitor badge con estilo dark -->
-<img src="https://komarev.com/visits?name=Lucas18062025&label=VISITAS&color=00E5FF&labelColor=0D1117&iconColor=00E5FF&style=for-the-badge" alt="Visitor Count"/>
+<!-- Visitor badge con estilo simple -->
+<img src="https://img.shields.io/badge/Profile_Views-Visit_GitHub-00E5FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Visitor Count"/>
 
 </div>
 
@@ -382,7 +382,7 @@ lucas@kali:~$ ./identity.sh
 <tr>
 <td>
 
-> #### 🧠 ` RED TEAM MINDSET `
+> #### 🧠 `[ RED_TEAM_MINDSET ]`
 >
 > *"Pensar como atacante te enseña a defender… pero actuar con ética define quién sos."*
 
@@ -391,7 +391,7 @@ lucas@kali:~$ ./identity.sh
 <tr>
 <td>
 
-> #### 📚 ` CONTINUOUS LEARNING `
+> #### 📚 `[ CONTINUOUS_LEARNING ]`
 >
 > *"En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante, porque en este juego, el conocimiento es poder."*
 
@@ -400,7 +400,7 @@ lucas@kali:~$ ./identity.sh
 <tr>
 <td>
 
-> #### 🖥️ ` VM ISOLATION PRINCIPLE `
+> #### 🖥️ `[ VM_ISOLATION_PRINCIPLE ]`
 >
 > *"El aislamiento de una VM no es absoluto, es probabilístico. La seguridad real viene de entender cada vector de contacto entre la VM y el host, y eliminar los que no necesitás activamente."*
 
