@@ -82,12 +82,15 @@ lucas@kali:~$ ./identity.sh
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Stats con alternativa más estable y simple -->
-<img height="200" src="https://github-readme-stats-git-main-anuragsk0s-projects.vercel.app/api?username=Lucas18062025&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=C9D1D9&border_color=30363D&hide_border=true&count_private=true&include_all_commits=false" />
+<!-- Streak stats que funciona perfecto -->
 <img height="200" src="https://streak-stats.demolab.com?user=Lucas18062025&theme=dark&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=C9D1D9" />
 
-<!-- Lenguajes más usados -->
-<img height="200" src="https://github-readme-stats-git-main-anuragsk0s-projects.vercel.app/api/top-langs/?username=Lucas18062025&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<!-- Stats simples con badges funcionales -->
+<img src="https://img.shields.io/badge/Contributions-292-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Longest_Streak-7_days-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Languages-Python%2C_PowerShell%2C_JS-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 
 </div>
 
@@ -362,6 +365,9 @@ lucas@kali:~$ ./identity.sh
 </a>
 
 <br/><br/>
+
+<!-- Visitor badge con estilo simple -->
+<img src="https://img.shields.io/badge/Profile_Views-Visit_GitHub-00E5FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Visitor Count"/>
 
 </div>
 
