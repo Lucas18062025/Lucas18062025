@@ -402,12 +402,4 @@ lucas@kali:~$ ./identity.sh
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║  © 2026 Lucas Villagra · System Secured                                      ║
-║  Built on GitHub Pages · Deployed via Cloudflare Workers                     ║
-║  uptime: ∞ · threat level: monitored · status: online                        ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
