@@ -49,14 +49,17 @@
 ### 👤 Quién Soy
 
 ```bash
-lucas@kali:~$ ./identity.sh
-┌──────────────────────────────────────────┐
-│  USER    : Lucas Villagra                │
-│  ROLE    : Cybersecurity Analyst         │
-│  FOCUS   : Red Team · AI Integrator      │
-│  LOC     : Tucumán, Argentina            │
-│  STATUS  : Operational                   │
-└──────────────────────────────────────────┘
+lucas@kali:~$ ./whoami.sh
+┌─────────────────────────────────────────────────────────────┐
+│  ID        : LUCAS_VILLAGRA                               │
+│  ROLE      : Cybersecurity Analyst                        │
+│  MISSION   : Offensive Defense · Orchestrator             │
+│  TOOLSET   : Kali · Python · n8n · SIEM · GeminiCLI       │
+│  FOCUS     : Red Teaming · Threat Investigation           │
+│  PHILOSOPHY: " Pienso como atacante actúo como            │
+│               defensor. Orquesto respuestas,              │
+│               investigo el caos. "                        │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </td>
