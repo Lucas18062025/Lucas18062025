@@ -54,7 +54,6 @@ lucas@kali:~$ ./whoami.sh
 │  ID        : LUCAS_VILLAGRA                               │
 │  ROLE      : Cybersecurity Analyst                        │
 │  MISSION   : Offensive Defense · Orchestrator             │
-│  TOOLSET   : Kali · Python · n8n · SIEM · GeminiCLI       │
 │  FOCUS     : Red Teaming · Threat Investigation           │
 │  PHILOSOPHY: " Pienso como atacante actúo como            │
 │               defensor. Orquesto respuestas,              │
