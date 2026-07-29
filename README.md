@@ -85,8 +85,7 @@ lucas@kali:~$ ./whoami.sh
 ### 📊 Estadísticas de GitHub
 
 <!-- Streak stats que funciona perfecto -->
-<img height="200" src="https://streak-stats.demolab.com?user=Lucas18062025&theme=dark&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=C9D1D9" />
-
+<img height="200" src="https://github-readme-streak-stats-eight.vercel.app?user=Lucas18062025&theme=dark&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=C9D1D9" />
 <br/><br/>
 
 <!-- Stats simples con badges funcionales -->
