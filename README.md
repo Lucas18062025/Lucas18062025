@@ -38,13 +38,13 @@
 ```bash
 lucas@kali:~$ ./whoami.sh
 ┌─────────────────────────────────────────────────────────────┐
-│  ID        : LUCAS_VILLAGRA                               │
-│  ROLE      : Cybersecurity Analyst                        │
-│  MISSION   : Offensive Defense · Orchestrator             │
-│  FOCUS     : Red Teaming · Threat Investigation           │
-│  PHILOSOPHY: " Pienso como atacante actúo como            │
-│               defensor. Orquesto respuestas,              │
-│               investigo el caos. "                        │
+│  ID        : LUCAS_VILLAGRA                                 │
+│  ROLE      : Cybersecurity Analyst                          │
+│  MISSION   : Offensive Defense · Orchestrator               │
+│  FOCUS     : Red Teaming · Threat Investigation             │
+│  PHILOSOPHY: " Pienso como atacante actúo como              │
+│               defensor. Orquesto respuestas,                │
+│               investigo el caos. "                          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
