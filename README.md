@@ -3,10 +3,7 @@
      Estilo: Dark Mode · Quantum Noir · Premium
      Inspiración: Linear / Vercel / GitHub Dark Default
      ════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- HEADER PRINCIPAL ────────────────────────────────────────────────────────────────────────────────────────────── -->
-<div align="center">
-
+     
 <!-- Separador con línea gradient -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
