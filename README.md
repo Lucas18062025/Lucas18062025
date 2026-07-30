@@ -189,19 +189,34 @@ lucas@kali:~$ ./whoami.sh
 </td>
 </tr>
 <tr>
-<td width="100%" align="center" colspan="2">
+<td width="50%" align="center">
 
 <h3>⏱️ <a href="https://github.com/Lucas18062025/zenhub-dashboard"><b>ZenHub Dashboard</b></a></h3>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-JavaScript-FF9500?style=flat-square&logo=javascript&logoColor=white"/>
 
-<p>Panel de productividad personal con Pomodoro, gestor de tareas, rastreador de hábitos y clima en tiempo real (Open-Meteo).</p>
+<p align="left">Panel de productividad personal con Pomodoro, gestor de tareas, rastreador de hábitos y clima en tiempo real (Open-Meteo).</p>
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FF9500?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open_Meteo-30363D?style=flat-square&logo=weather&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+<h3>☁️ <a href="https://github.com/Lucas18062025/cloud-attack-vector-research"><b>Cloud Attack Vector Research</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+
+<p align="left">Relevamiento técnico de vectores de ataque en infraestructura cloud: agotamiento de recursos, activos mal configurados, escalamiento de privilegios y robo de credenciales — con caso práctico IaaS.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IaaS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Offensive_Security-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
 </p>
 
 </td>
