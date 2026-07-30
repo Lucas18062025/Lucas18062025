@@ -7,9 +7,6 @@
 <!-- HEADER PRINCIPAL ────────────────────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
-<!-- Banner con efecto typing animado -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=70&lines=Cybersecurity+Analyst;Ethical+Hacker;Security+Automation+Engineer;Red+Team+Operator;SIEM+%E2%80%A2+MCP+%E2%80%A2+AI+Integrator" alt="Typing SVG" />
-
 <!-- Separador con línea gradient -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
