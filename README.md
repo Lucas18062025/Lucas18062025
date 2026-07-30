@@ -20,13 +20,6 @@
 
 <br/><br/>
 
-<!-- Status operacional con estilo terminal -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=flat-square&logo=server&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/THREAT-MONITORED-A78BFA?style=flat-square&logo=shield&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/UPTIME-ACTIVE-22C55E?style=flat-square&logo=clock&logoColor=white&labelColor=0D1117"/>
-
-<br/><br/>
-
 <!-- Skill icons con tema dark -->
 <img src="https://skillicons.dev/icons?i=linux,windows,python,powershell,bash,html,css,javascript,nodejs,netlify,cloudflare,docker,vscode,github&theme=dark" />
 
