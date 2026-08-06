@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- Skill icons con tema dark -->
-<img src="https://skillicons.dev/icons?i=kali,windows,python,powershell,bash,html,css,javascript,nodejs,netlify,cloudflare,docker,vscode,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali,windows,python,powershell,bash,html,css,javascript,nodejs,netlify,cloudflare,docker,vscode,github,gitlab&theme=dark" />
 
 </div>
 
