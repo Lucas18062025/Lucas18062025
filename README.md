@@ -221,6 +221,26 @@ lucas@kali:~$ ./whoami.sh
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+
+<h3>🛡️ <a href="https://github.com/Lucas18062025/PoC_scripts_for_shell"><b>PoC_scripts_for_shell</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/EDR/AV_Bypass-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red_Team-30363D?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+</td>
+</tr>
 </table>
 
 <!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
