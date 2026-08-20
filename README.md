@@ -239,6 +239,18 @@ lucas@kali:~$ ./whoami.sh
 </td>
 <td width="50%" align="center">
 
+<h3>🔐 <a href="https://github.com/Lucas18062025/secure-web-platform"><b>Secure Web Platform</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+<p align="left">Plataforma web full-stack con Next.js, FastAPI y PostgreSQL.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
 </td>
 </tr>
 </table>
