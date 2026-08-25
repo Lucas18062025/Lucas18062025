@@ -93,102 +93,55 @@ lucas@kali:~$ ./whoami.sh
 
 <table>
 <tr>
+<!-- Fila 1: Los más recientes -->
 <td width="50%" align="center">
 
-<h3>🛡️ <a href="https://github.com/Lucas18062025/Sentinel"><b>Sentinel V5 "Apex"</b></a></h3>
+<h3>🔐 <a href="https://github.com/Lucas18062025/secure-web-platform"><b>Secure Web Platform</b></a></h3>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-<p align="left">Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza inteligente + auditoría de firewall con evidencia forense.</p>
+<p align="left">Plataforma web full-stack con Next.js, FastAPI y PostgreSQL.</p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetSecurity-30363D?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 </td>
 <td width="50%" align="center">
 
-<h3>📡 <a href="https://github.com/Lucas18062025/SIEM_Windows_11"><b>SIEM — Windows 11</b></a></h3>
+<h3>🛡️ <a href="https://github.com/Lucas18062025/PoC_scripts_for_shell"><b>PoC_scripts_for_shell</b></a></h3>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-<p align="left">Monitor de eventos en tiempo real con alertas vía Telegram. Procesa eventos críticos, clasifica riesgos con CVSS v3.1.</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Win_Events-30363D?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram_API-229ED9?style=flat-square&logo=telegram&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<h3>🌐 <a href="https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-"><b>Network Egress Monitor</b></a></h3>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-
-<p align="left">Monitor de tráfico TCP saliente (egress) en tiempo real para Windows. Correlación de procesos, Reverse DNS y detección de organizaciones para SOC, DFIR y Threat Hunting.</p>
+<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.</p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP/IP-30363D?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" align="center">
-
-<h3>🎣 <a href="https://github.com/Lucas18062025/Gophish-Lab"><b>Gophish Lab</b></a></h3>
-<img src="https://img.shields.io/badge/STATUS-LAB-FFBD2E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-
-<p align="left">Simulación de campaña de phishing con GoPhish + Mailpit. Ciclo completo: template → landing → captura de credenciales.</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/GoPhish-CC0000?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mailpit-30363D?style=flat-square&logo=mailtrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDR/AV_Bypass-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red_Team-30363D?style=flat-square&logo=shield&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
 
 </td>
 </tr>
 <tr>
+<!-- Fila 2 -->
 <td width="50%" align="center">
 
-<h3>📄 <a href="https://lucas18062025.github.io/Portafolio/"><b>Reportes Ejecutivos PDF</b></a></h3>
+<h3>☁️ <a href="https://github.com/Lucas18062025/cloud-attack-vector-research"><b>Cloud Attack Vector Research</b></a></h3>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
 
-<p align="left">Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas. Generación automática con datos estructurados.</p>
+<p align="left">Relevamiento técnico de vectores de ataque en infraestructura cloud: agotamiento de recursos, activos mal configurados, escalamiento de privilegios y robo de credenciales — con caso práctico IaaS.</p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReportLab-30363D?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IaaS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Offensive_Security-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
 </p>
 
 </td>
-<td width="50%" align="center">
-
-<h3>🔍 <a href="https://github.com/Lucas18062025/security-audit-checker"><b>Security-Audit-Checker</b></a></h3>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-
-<p align="left">Auditoría de infraestructura con protección Arcjet Shield y backend serverless. Detección de bots y rate limiting inteligente.</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arcjet-30363D?style=flat-square&logo=shield&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
 <td width="50%" align="center">
 
 <h3>⏱️ <a href="https://github.com/Lucas18062025/zenhub-dashboard"><b>ZenHub Dashboard</b></a></h3>
@@ -205,57 +158,107 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- Fila 3 -->
 <td width="50%" align="center">
 
-<h3>☁️ <a href="https://github.com/Lucas18062025/cloud-attack-vector-research"><b>Cloud Attack Vector Research</b></a></h3>
+<h3>🔍 <a href="https://github.com/Lucas18062025/security-audit-checker"><b>Security-Audit-Checker</b></a></h3>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
-<p align="left">Relevamiento técnico de vectores de ataque en infraestructura cloud: agotamiento de recursos, activos mal configurados, escalamiento de privilegios y robo de credenciales — con caso práctico IaaS.</p>
+<p align="left">Auditoría de infraestructura con protección Arcjet Shield y backend serverless. Detección de bots y rate limiting inteligente.</p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/IaaS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Offensive_Security-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arcjet-30363D?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+<h3>📄 <a href="https://lucas18062025.github.io/Portafolio/"><b>Reportes Ejecutivos PDF</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<p align="left">Informes PDF profesionales para auditorías WiFi con scoring CVSS para PYMEs argentinas. Generación automática con datos estructurados.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReportLab-30363D?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
 </td>
 </tr>
 <tr>
+<!-- Fila 4 -->
 <td width="50%" align="center">
 
-<h3>🛡️ <a href="https://github.com/Lucas18062025/PoC_scripts_for_shell"><b>PoC_scripts_for_shell</b></a></h3>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<h3>🎣 <a href="https://github.com/Lucas18062025/Gophish-Lab"><b>Gophish Lab</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-LAB-FFBD2E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
-<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.</p>
+<p align="left">Simulación de campaña de phishing con GoPhish + Mailpit. Ciclo completo: template → landing → captura de credenciales.</p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/EDR/AV_Bypass-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Red_Team-30363D?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoPhish-CC0000?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mailpit-30363D?style=flat-square&logo=mailtrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
 
 </td>
 <td width="50%" align="center">
 
-<h3>🔐 <a href="https://github.com/Lucas18062025/secure-web-platform"><b>Secure Web Platform</b></a></h3>
+<h3>🌐 <a href="https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-"><b>Network Egress Monitor</b></a></h3>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LANG-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 
-<p align="left">Plataforma web full-stack con Next.js, FastAPI y PostgreSQL.</p>
+<p align="left">Monitor de tráfico TCP saliente (egress) en tiempo real para Windows. Correlación de procesos, Reverse DNS y detección de organizaciones para SOC, DFIR y Threat Hunting.</p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP/IP-30363D?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<!-- Fila 5: Los más antiguos -->
+<td width="50%" align="center">
+
+<h3>📡 <a href="https://github.com/Lucas18062025/SIEM_Windows_11"><b>SIEM — Windows 11</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<p align="left">Monitor de eventos en tiempo real con alertas vía Telegram. Procesa eventos críticos, clasifica riesgos con CVSS v3.1.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Win_Events-30363D?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram_API-229ED9?style=flat-square&logo=telegram&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+<h3>🛡️ <a href="https://github.com/Lucas18062025/Sentinel"><b>Sentinel V5 "Apex"</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+
+<p align="left">Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza inteligente + auditoría de firewall con evidencia forense.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetSecurity-30363D?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white"/>
 </p>
 
 </td>
 </tr>
 </table>
-
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ARSENAL TÉCNICO ─────────────────────────────────────────────────────────────────────────────────────────────── -->
