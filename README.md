@@ -1,15 +1,15 @@
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+<!-- ════════════════════════════════════════════════════════════════[...]
      README.md · Lucas Villagra · Cybersecurity Analyst
      Estilo: Dark Mode · Quantum Noir · Premium
      Inspiración: Linear / Vercel / GitHub Dark Default
-     ════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+     ════════════════════════════════════════════════════════════════[...]
      
 <!-- Separador con línea gradient -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- Badges principales ────────────────────────────────────────────────────────────────────────────────────────── -->
-<a href="https://lucas18062025.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-GitHub_Pages-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<!-- Badges principales ─────────────────────────────────────────────────────────────────────────── -->
+<a href="https://portafolio.lucaslean1806.workers.dev">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-Workers_Dev-FF4444?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://linkedin.com/in/lucas-villagra-9b5097147">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
@@ -25,10 +25,10 @@
 
 </div>
 
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ABOUT ───────────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- ABOUT ─────────────────────────────────────────────────────────────────────────────── -->
 <table>
 <tr>
 <td width="50%">
@@ -62,10 +62,25 @@ lucas@kali:~$ ./whoami.sh
 </tr>
 </table>
 
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- GITHUB STATS ────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- PORTAFOLIO ESTRATÉGICO ─────────────────────────────────────────────────────────────────── -->
+<div align="center">
+
+### 🌐 Portafolio Digital
+
+[![Portafolio Profesional](https://img.shields.io/badge/👁️_Ver_Portafolio_Completo-FF4444?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://portafolio.lucaslean1806.workers.dev)
+
+> **Proyectos en vivo, case studies y análisis técnico**  
+> Deployed en Cloudflare Workers | Actualizado continuamente
+
+</div>
+
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- GITHUB STATS ─────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 📊 Estadísticas de GitHub
@@ -81,10 +96,10 @@ lucas@kali:~$ ./whoami.sh
 
 </div>
 
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- PROYECTOS DESTACADOS ────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- PROYECTOS DESTACADOS ──���───────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 🚀 Proyectos Destacados
@@ -133,7 +148,7 @@ lucas@kali:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
 
-<p align="left">Relevamiento técnico de vectores de ataque en infraestructura cloud: agotamiento de recursos, activos mal configurados, escalamiento de privilegios y robo de credenciales — con caso práctico IaaS.</p>
+<p align="left">Relevamiento técnico de vectores de ataque en infraestructura cloud: agotamiento de recursos, activos mal configurados, escalamiento de privilegios y robo de credenciales — con análisis de remediación.</p>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -261,7 +276,7 @@ lucas@kali:~$ ./whoami.sh
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ARSENAL TÉCNICO ─────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- ARSENAL TÉCNICO ─────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 🛡️ Arsenal Técnico
@@ -336,10 +351,10 @@ lucas@kali:~$ ./whoami.sh
 </tr>
 </table>
 
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- HOJA DE RUTA ────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- HOJA DE RUTA ─────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 🧠 Roadmap 2026
@@ -360,12 +375,28 @@ lucas@kali:~$ ./whoami.sh
 - [x] ✓ Dominio .dev propio
 
 </tr>
+<tr>
+
+#### 🔄 En Progreso Q1-Q2 2026
+
+- [ ] 🎯 **Certificado de Hacking Ético - Cisco** *(CEH - Certified Ethical Hacker)*
+  > Validación formal de técnicas de pentesting, análisis de vulnerabilidades y metodologías ofensivas defensivas
+- [ ] 🎯 **Certificado de Ciberseguridad - Google** *(Advanced Cybersecurity Professional)*
+  > Especialización en respuesta ante incidentes, SOC operations y threat intelligence
+
+#### 🚀 Próximas Fases Q3-Q4 2026
+
+- [ ] 📊 Plataforma de análisis de amenazas open-source
+- [ ] 🔐 Laboratorio de seguridad en la nube (AWS/Azure hardening)
+- [ ] 📈 Publicación de research papers en ciberseguridad
+
+</tr>
 </table>
 
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- CONECTA ─────────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- CONECTA ────────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 💬 Contacto
@@ -382,18 +413,18 @@ lucas@kali:~$ ./whoami.sh
 <a href="https://linkedin.com/in/lucas-villagra-9b5097147">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
-<a href="https://lucas18062025.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/>
+<a href="https://portafolio.lucaslean1806.workers.dev">
+  <img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=cloudflare&logoColor=0D1117&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
 </div>
 
-<!-- SEPARADOR ──────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- REFLEXIONES ─────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- REFLEXIONES ───────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 📝 Reflexiones & Principios
@@ -415,7 +446,7 @@ lucas@kali:~$ ./whoami.sh
 
 > #### 📚 ` CONTINUOUS LEARNING `
 >
-> *"En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante, porque en este juego, el conocimiento es poder."*
+> *"En el mundo de la ciberseguridad, la curiosidad es tu mejor herramienta. Cada vulnerabilidad es una oportunidad para aprender y cada ataque es una lección para mejorar. Mantente siempre un paso adelante."*
 
 </td>
 </tr>
@@ -430,12 +461,12 @@ lucas@kali:~$ ./whoami.sh
 </tr>
 </table>
 
-<!-- FOOTER ───────────────────────────────────────────────────────────────────────────────────────────────────────── -->
+<!-- FOOTER ─────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&lines=uptime+%E2%88%9E+%C2%B7+threat+monitored+%C2%B7+operational;system+secured+%C2%B7+built+with+%E2%9D%A4+on+GitHub" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&lines=uptime+%E2%88%9E+%C2%B7+threat+hunting+24%2F7+%C2%B7+null+tolerance" />
 
 <br/>
 
