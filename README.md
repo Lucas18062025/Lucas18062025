@@ -9,7 +9,7 @@
 
 <!-- Badges principales ─────────────────────────────────────────────────────────────────────────── -->
 <a href="https://portafolio.lucaslean1806.workers.dev">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-Workers_Dev-FF4444?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/PORTAFOLIO-Workers_Dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://linkedin.com/in/lucas-villagra-9b5097147">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
