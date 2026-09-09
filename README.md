@@ -99,7 +99,7 @@ lucas@kali:~$ ./whoami.sh
 <!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- PROYECTOS DESTACADOS ──���───────────────────────────────────────────────────────────────── -->
+<!-- PROYECTOS DESTACADOS ─────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### 🚀 Proyectos Destacados
@@ -354,6 +354,53 @@ lucas@kali:~$ ./whoami.sh
 <!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- CERTIFICACIONES ─────────────────────────────────────────────────────────────────────────── -->
+<div align="center">
+
+### 🏆 Certificaciones Profesionales
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>🎯 <b>CEH - Certified Ethical Hacker</b></h3>
+<img src="https://img.shields.io/badge/Cisco-Network_Academy-FF3300?style=flat-square&logo=cisco&logoColor=white"/>
+
+> **Validación formal de técnicas de pentesting, análisis de vulnerabilidades y metodologías ofensivas defensivas**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pentesting-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vulnerability_Analysis-FFB81C?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red_Team_Ops-8B0000?style=flat-square&logo=shield&logoColor=white"/>
+</p>
+
+✅ **Completado 2026**
+
+</td>
+<td width="50%" align="center">
+
+<h3>🎯 <b>Advanced Cybersecurity Professional</b></h3>
+<img src="https://img.shields.io/badge/Google_Cloud-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+> **Especialización en respuesta ante incidentes, SOC operations y threat intelligence**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Incident_Response-FF0000?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOC_Operations-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat_Intelligence-8B0000?style=flat-square&logo=alert&logoColor=white"/>
+</p>
+
+✅ **Completado 2026**
+
+</td>
+</tr>
+</table>
+
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- HOJA DE RUTA ─────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
@@ -373,22 +420,18 @@ lucas@kali:~$ ./whoami.sh
 - [x] ✓ Protección activa en apps web
 - [x] ✓ Motor de auditoría Open Source
 - [x] ✓ Dominio .dev propio
+- [x] ✓ **CEH - Certified Ethical Hacker (Cisco)**
+- [x] ✓ **Advanced Cybersecurity Professional (Google)**
 
 </tr>
 <tr>
-
-#### 🔄 En Progreso Q1-Q2 2026
-
-- [ ] 🎯 **Certificado de Hacking Ético - Cisco** *(CEH - Certified Ethical Hacker)*
-  > Validación formal de técnicas de pentesting, análisis de vulnerabilidades y metodologías ofensivas defensivas
-- [ ] 🎯 **Certificado de Ciberseguridad - Google** *(Advanced Cybersecurity Professional)*
-  > Especialización en respuesta ante incidentes, SOC operations y threat intelligence
 
 #### 🚀 Próximas Fases Q3-Q4 2026
 
 - [ ] 📊 Plataforma de análisis de amenazas open-source
 - [ ] 🔐 Laboratorio de seguridad en la nube (AWS/Azure hardening)
 - [ ] 📈 Publicación de research papers en ciberseguridad
+- [ ] 🎓 Certificación OSCP (Offensive Security Certified Professional)
 
 </tr>
 </table>
