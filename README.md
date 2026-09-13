@@ -108,7 +108,22 @@ lucas@kali:~$ ./whoami.sh
 
 <table>
 <tr>
-<!-- Fila 1: Los más recientes -->
+<!-- Fila 1: la más reciente -->
+<td width="50%" align="center">
+
+<h3>🦠 <a href="https://github.com/Lucas18062025/Herramientas-Analisis-Malware"><b>Herramientas-Analisis-Malware</b></a></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANG-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+<p align="left">Guías interactivas y laboratorio de análisis de malware: Ghidra, Radare2, GDB y Assembly x86-64. 9 docs, ejemplos propios y app React. Solo fines educativos.</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Ghidra-EE0000?style=flat-square&logo=ghidra&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+</td>
 <td width="50%" align="center">
 
 <h3>🔐 <a href="https://github.com/Lucas18062025/secure-web-platform"><b>Secure Web Platform</b></a></h3>
@@ -124,6 +139,9 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- Fila 2 -->
 <td width="50%" align="center">
 
 <h3>🛡️ <a href="https://github.com/Lucas18062025/PoC_scripts_for_shell"><b>PoC_scripts_for_shell</b></a></h3>
@@ -139,9 +157,6 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
-</tr>
-<tr>
-<!-- Fila 2 -->
 <td width="50%" align="center">
 
 <h3>☁️ <a href="https://github.com/Lucas18062025/cloud-attack-vector-research"><b>Cloud Attack Vector Research</b></a></h3>
@@ -157,6 +172,9 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- Fila 3 -->
 <td width="50%" align="center">
 
 <h3>⏱️ <a href="https://github.com/Lucas18062025/zenhub-dashboard"><b>ZenHub Dashboard</b></a></h3>
@@ -173,9 +191,6 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
-</tr>
-<tr>
-<!-- Fila 3 -->
 <td width="50%" align="center">
 
 <h3>🔍 <a href="https://github.com/Lucas18062025/security-audit-checker"><b>Security-Audit-Checker</b></a></h3>
@@ -191,6 +206,9 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- Fila 4 -->
 <td width="50%" align="center">
 
 <h3>📄 <a href="https://lucas18062025.github.io/Portafolio/"><b>Reportes Ejecutivos PDF</b></a></h3>
@@ -206,9 +224,6 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
-</tr>
-<tr>
-<!-- Fila 4 -->
 <td width="50%" align="center">
 
 <h3>🎣 <a href="https://github.com/Lucas18062025/Gophish-Lab"><b>Gophish Lab</b></a></h3>
@@ -224,6 +239,9 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- Fila 5 -->
 <td width="50%" align="center">
 
 <h3>🌐 <a href="https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-"><b>Network Egress Monitor</b></a></h3>
@@ -239,9 +257,6 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
-</tr>
-<tr>
-<!-- Fila 5: Los más antiguos -->
 <td width="50%" align="center">
 
 <h3>📡 <a href="https://github.com/Lucas18062025/SIEM_Windows_11"><b>SIEM — Windows 11</b></a></h3>
@@ -257,6 +272,9 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+</tr>
+<tr>
+<!-- Fila 6: la más antigua -->
 <td width="50%" align="center">
 
 <h3>🛡️ <a href="https://github.com/Lucas18062025/Sentinel"><b>Sentinel V5 "Apex"</b></a></h3>
@@ -272,6 +290,7 @@ lucas@kali:~$ ./whoami.sh
 </p>
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
