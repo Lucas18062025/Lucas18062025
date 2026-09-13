@@ -148,7 +148,7 @@ lucas@kali:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.<br></p>
+<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/EDR/AV_Bypass-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
