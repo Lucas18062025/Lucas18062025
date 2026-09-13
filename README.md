@@ -130,7 +130,7 @@ lucas@kali:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-<p align="left">Plataforma web full-stack con Next.js, FastAPI y PostgreSQL.</p>
+<p align="left">Plataforma web full-stack con Next.js, FastAPI y PostgreSQL.<br><br></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
@@ -148,7 +148,7 @@ lucas@kali:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.</p>
+<p align="left">Investigación de equipo rojo: evasión de detección (AV/EDR) en shells mediante ofuscación y encoding, en capas de inversión/bind, para entornos de laboratorio autorizados.<br></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/EDR/AV_Bypass-CC0000?style=flat-square&logo=hackthebox&logoColor=white"/>
@@ -230,7 +230,7 @@ lucas@kali:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/STATUS-LAB-FFBD2E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
-<p align="left">Simulación de campaña de phishing con GoPhish + Mailpit. Ciclo completo: template → landing → captura de credenciales.</p>
+<p align="left">Simulación de campaña de phishing con GoPhish + Mailpit. Ciclo completo: template → landing → captura de credenciales.<br></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/GoPhish-CC0000?style=flat-square&logo=go&logoColor=white"/>
@@ -263,7 +263,7 @@ lucas@kali:~$ ./whoami.sh
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LANG-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<p align="left">Monitor de eventos en tiempo real con alertas vía Telegram. Procesa eventos críticos, clasifica riesgos con CVSS v3.1.</p>
+<p align="left">Monitor de eventos en tiempo real con alertas vía Telegram. Procesa eventos críticos, clasifica riesgos con CVSS v3.1.<br><br></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
