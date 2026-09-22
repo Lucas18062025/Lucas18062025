@@ -33,23 +33,6 @@
 <tr>
 <td width="50%">
 
-### 👤 Quién Soy
-
-```bash
-lucas@kali:~$ ./whoami.sh
-┌─────────────────────────────────────────────────────────────┐
-│  ROLE: Cybersecurity Analyst                                │
-│  MISSION: Offensive Defense · Orchestrator                  │
-│  FOCUS: Red Teaming · Threat Investigation                  │
-│  PHILOSOPHY:  " Pienso como atacante actúo como             │
-│               defensor. Orquesto respuestas,                │
-│               investigo el caos. "                          │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</td>
-<td width="50%">
-
 ### 🧠 Mentalidad & Enfoque
 
 > **Autodidacta · Metódico · Orientado a resultados**
