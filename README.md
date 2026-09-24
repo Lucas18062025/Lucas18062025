@@ -11,7 +11,7 @@
 <a href="https://portafolio.lucaslean1806.workers.dev">
   <img src="https://img.shields.io/badge/PORTAFOLIO-Workers_Dev-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117"/>
 </a>
-<a href="https://linkedin.com/in/lucas-villagra-9b5097147">
+<a href="https://www.linkedin.com/in/lucas-villagra-cybersecurity">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/Lucas18062025?tab=followers">
@@ -471,7 +471,7 @@ Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza intel
 <a href="mailto:lucaslean1806@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0D1117"/>
 </a>
-<a href="https://linkedin.com/in/lucas-villagra-9b5097147">
+<a href="https://www.linkedin.com/in/lucas-villagra-cybersecurity">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://portafolio.lucaslean1806.workers.dev">
