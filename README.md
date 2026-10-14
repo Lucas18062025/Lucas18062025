@@ -431,23 +431,23 @@ Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza intel
 <table width="100%">
 <tr>
 <td width="20%" align="center" valign="top">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="100" alt="Gemini Enterprise Agent Ready"/></a>
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="190" alt="Gemini Enterprise Agent Ready"/></a>
 <br/><sub><b>Gemini Enterprise<br/>Agent Ready</b></sub>
 </td>
 <td width="20%" align="center" valign="top">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/quiz/badge.svg" width="100" alt="Antigravity Arcade Quiz"/></a>
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/quiz/badge.svg" width="190" alt="Antigravity Arcade Quiz"/></a>
 <br/><sub><b>Antigravity Arcade<br/>Quiz</b></sub>
 </td>
 <td width="20%" align="center" valign="top">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/learn/badge.svg" width="100" alt="Antigravity Arcade Explored"/></a>
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/learn/badge.svg" width="190" alt="Antigravity Arcade Explored"/></a>
 <br/><sub><b>Antigravity Arcade<br/>Explored</b></sub>
 </td>
 <td width="20%" align="center" valign="top">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="100" alt="Google Cloud y NVIDIA"/></a>
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="190" alt="Google Cloud y NVIDIA"/></a>
 <br/><sub><b>Google Cloud<br/>& NVIDIA</b></sub>
 </td>
 <td width="20%" align="center" valign="top">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="100" alt="Google Developer Program Member"/></a>
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="190" alt="Google Developer Program Member"/></a>
 <br/><sub><b>Developer Program<br/>Member</b></sub>
 </td>
 </tr>
