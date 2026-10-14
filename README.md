@@ -424,36 +424,30 @@ Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza intel
 
 ### 🎖️ Google Developer Program
 
-> **Insignias oficiales · Aprendizaje continuo · Ecosistema Google Cloud & IA**
+<sub><b>Insignias oficiales · Aprendizaje continuo · Ecosistema Google Cloud & IA</b></sub>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="110" alt="Gemini Enterprise Agent Ready"/></a>
+<td width="20%" align="center" valign="top">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="100" alt="Gemini Enterprise Agent Ready"/></a>
 <br/><sub><b>Gemini Enterprise<br/>Agent Ready</b></sub>
 </td>
-<td width="33%" align="center">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/quiz/badge.svg" width="110" alt="Antigravity Arcade Quiz"/></a>
+<td width="20%" align="center" valign="top">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/quiz/badge.svg" width="100" alt="Antigravity Arcade Quiz"/></a>
 <br/><sub><b>Antigravity Arcade<br/>Quiz</b></sub>
 </td>
-<td width="33%" align="center">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/learn/badge.svg" width="110" alt="Antigravity Arcade Explored"/></a>
+<td width="20%" align="center" valign="top">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/learn/badge.svg" width="100" alt="Antigravity Arcade Explored"/></a>
 <br/><sub><b>Antigravity Arcade<br/>Explored</b></sub>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg" width="110" alt="Google I/O 2026 Registered"/></a>
-<br/><sub><b>Google I/O 2026<br/>Registered</b></sub>
-</td>
-<td width="33%" align="center">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="110" alt="Google Cloud y NVIDIA"/></a>
+<td width="20%" align="center" valign="top">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="100" alt="Google Cloud y NVIDIA"/></a>
 <br/><sub><b>Google Cloud<br/>& NVIDIA</b></sub>
 </td>
-<td width="33%" align="center">
-<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="110" alt="Google Developer Program Member"/></a>
+<td width="20%" align="center" valign="top">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="100" alt="Google Developer Program Member"/></a>
 <br/><sub><b>Developer Program<br/>Member</b></sub>
 </td>
 </tr>
@@ -487,16 +481,6 @@ Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza intel
 - [x] ✓ Dominio .dev propio
 - [x] ✓ **CEH - Certified Ethical Hacker (Cisco)**
 - [x] ✓ **Advanced Cybersecurity Professional (Google)**
-
-</tr>
-<tr>
-
-#### 🚀 Próximas Fases Q3-Q4 2026
-
-- [ ] 📊 Plataforma de análisis de amenazas open-source
-- [ ] 🔐 Laboratorio de seguridad en la nube (AWS/Azure hardening)
-- [ ] 📈 Publicación de research papers en ciberseguridad
-- [ ] 🎓 Certificación OSCP (Offensive Security Certified Professional)
 
 </tr>
 </table>
