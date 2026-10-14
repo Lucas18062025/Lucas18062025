@@ -419,6 +419,53 @@ Motor de mantenimiento y auditoría de seguridad para Windows 11. Limpieza intel
 <!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- GOOGLE DEVELOPER PROGRAM ─────────────────────────────────────────────────────────────── -->
+<div align="center">
+
+### 🎖️ Google Developer Program
+
+> **Insignias oficiales · Aprendizaje continuo · Ecosistema Google Cloud & IA**
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="110" alt="Gemini Enterprise Agent Ready"/></a>
+<br/><sub><b>Gemini Enterprise<br/>Agent Ready</b></sub>
+</td>
+<td width="33%" align="center">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/quiz/badge.svg" width="110" alt="Antigravity Arcade Quiz"/></a>
+<br/><sub><b>Antigravity Arcade<br/>Quiz</b></sub>
+</td>
+<td width="33%" align="center">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/playlists/solutions/antigravity-arcade/learn/badge.svg" width="110" alt="Antigravity Arcade Explored"/></a>
+<br/><sub><b>Antigravity Arcade<br/>Explored</b></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg" width="110" alt="Google I/O 2026 Registered"/></a>
+<br/><sub><b>Google I/O 2026<br/>Registered</b></sub>
+</td>
+<td width="33%" align="center">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="110" alt="Google Cloud y NVIDIA"/></a>
+<br/><sub><b>Google Cloud<br/>& NVIDIA</b></sub>
+</td>
+<td width="33%" align="center">
+<a href="PROFILE_URL"><img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="110" alt="Google Developer Program Member"/></a>
+<br/><sub><b>Developer Program<br/>Member</b></sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Ver perfil completo → <a href="PROFILE_URL">Google Developer Program</a></sub>
+</div>
+
+<!-- SEPARADOR ────────────────────────────────────────────────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- HOJA DE RUTA ─────────────────────────────────────────────────────────────────────────── -->
 <div align="center">
 
